@@ -1,0 +1,3 @@
+In this article, we will discuss how to open the node.js using a command prompt. 
+Installing Node.js on the machine: First of all, we have to check whether the node.js 
+is installed on our machine or not. To check type “node –version” on the command prompt.
